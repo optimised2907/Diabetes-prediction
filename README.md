@@ -1,4 +1,8 @@
-# Diabetes Prediction Project
+# Diabetes Prediction Model
+
+![Python Version](https://img.shields.io/badge/Python-3.9%2B-blue)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Classification-brightgreen)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Overview
 This project implements a machine learning pipeline to predict diabetes based on health diagnostic metrics. Using the classic Pima Indians Diabetes dataset, it covers the full workflow from data preprocessing and exploratory analysis to model training and evaluation. The Jupyter notebook demonstrates various classification algorithms and their performance metrics.
