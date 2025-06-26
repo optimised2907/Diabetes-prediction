@@ -28,8 +28,7 @@ This project implements a machine learning pipeline to predict diabetes based on
 - **Multiple Models**: Compares 7 classification algorithms
 - **Evaluation Metrics**: Accuracy, precision, recall, F1-score, and confusion matrices
 
-## Installation
 
-### Prerequisites
+## Prerequisites
 - Python 3.7+
 - pip package manager
