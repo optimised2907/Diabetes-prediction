@@ -33,9 +33,3 @@ This project implements a machine learning pipeline to predict diabetes based on
 ### Prerequisites
 - Python 3.7+
 - pip package manager
-
-### Steps
-1. Clone the repository:
-```bash
-git clone https://github.com/optimised2907/diabetes-prediction.git
-cd diabetes-prediction
